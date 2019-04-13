@@ -9,11 +9,11 @@ import datetime as dt
 
 def access_reddit(): 
     # access reddit with praw 
-    reddit = praw.Reddit(client_id='tY4uH8am9NB__w', \
-                         client_secret='DPIjU10gE2p2UAfx39DwgYnO8rA', \
-                         user_agent='AITA-scraper', \
-                         username='bcabcae', \
-                         password='moralai1234')
+    reddit = praw.Reddit(client_id='X', \
+                         client_secret='X', \
+                         user_agent='X', \
+                         username='X', \
+                         password='X')
     return(reddit)
 
 def get_new_dict(reddit):
