@@ -5,10 +5,10 @@ The aim of this project is to create a moral compass for reddit, distinguishing 
 &nbsp;
 
 Key to Do's: 
-..* get more data (currently about 6000 posts, need to be at least 10000) 
-..* also delete data from controversial tab, difficult for learner 
-..* calculate AUC 
-..* try out different models, like Transformer 
+* get more data (currently about 6000 posts, need to be at least 10000) 
+* also delete data from controversial tab, difficult for learner 
+* calculate AUC 
+* try out different models, like Transformer 
 
 &nbsp;
 
