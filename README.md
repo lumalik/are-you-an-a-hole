@@ -11,7 +11,7 @@ The subreddit describes itself as: "A catharsis for the frustrated moral philoso
 &nbsp;
 
 |Judgment | Abbreviation|
-| --- |---|---|
+| --- |---|
 |You're the Asshole (& the other party is not)|	YTA| 
 |You're Not the A-hole (& the other party is)|	NTA| 
 |Everyone Sucks Here|	ESH| 
