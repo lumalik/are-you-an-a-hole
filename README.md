@@ -17,6 +17,7 @@ The subreddit describes itself as: "A catharsis for the frustrated moral philoso
 |Everyone Sucks Here|	ESH| 
 |No A-holes here|	NAH| 
 |Not Enough Info|	INFO|
+
 &nbsp;
 Each post must begin with "AITA" (=Am I the asshole?)
 
