@@ -15,7 +15,9 @@ Key to Do's:
 
 
 ## What is it about? 
-The subreddit describes itself as: "A catharsis for the frustrated moral philosopher in all of us, and a place to finally find out if you were wrong in an argument that's been bothering you. Tell us about any non-violent conflict you have experienced; give us both sides of the story, and find out if you're right, or you're the asshole."
+The subreddit describes itself as: </br>
+
+_"A catharsis for the frustrated moral philosopher in all of us, and a place to finally find out if you were wrong in an argument that's been bothering you. Tell us about any non-violent conflict you have experienced; give us both sides of the story, and find out if you're right, or you're the asshole."_
 &nbsp;
 
 18 hours after submission, submissions are tagged by one of the following flairs: 
